@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <div className="py-10 md:py-20 w-full container mx-auto">
       <div className="px-4 md:px-20 w-full">
-        <div className="flex justify-between flex-col md:flex-row gap-5">
+        <div className="flex justify-between flex-col md:flex-row gap-5 md:h-[200px] items-center">
           <p className="md:text-[50px] text-4xl font-bold">Say NO! to <span className="text-[#2a66ec]">#SGBV</span> in our communities</p>
           <div className="flex flex-col gap-3">
             <p className="text-gray-500 font-semibold">Empowering the community, giving voice to   the voiceless and curbing future crime</p>

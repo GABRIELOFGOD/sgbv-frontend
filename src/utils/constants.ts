@@ -26,7 +26,7 @@ export const menuItem: MenuItemType[] = [
       },
       {
         name: "Child Marriage/Abuse",
-        link: "/child-marriage"
+        link: "/child-abuse"
       },
       {
         name: "Sexual Harassment",
