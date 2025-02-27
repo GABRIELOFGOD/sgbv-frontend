@@ -5,10 +5,10 @@ const MissionVisson = () => {
         <p className="font-bold text-xl">Our Vision:</p>
         <div className="flex flex-col gap-3">
           <p className="italic">
-            "To create a world where Sexual and Gender based violence is a thing of the past, where survivors are empowered to speak out and seek justice.
+          &ldquo;To create a world where Sexual and Gender based violence is a thing of the past, where survivors are empowered to speak out and seek justice.
           </p>
           <p className="italic">
-            A world where the rights of every individual are respected and protected, where the vulnerable are given a voice and the voiceless are heard."
+            A world where the rights of every individual are respected and protected, where the vulnerable are given a voice and the voiceless are heard.&ldquo;
           </p>
         </div>
       </div>
@@ -17,13 +17,13 @@ const MissionVisson = () => {
         <p className="font-bold text-xl">Our Mission:</p>
         <div className="flex flex-col gap-3">
           <p className="italic">
-            "To empower the community to speak out against #SGBV, to give voice to the voiceless and to curb future crime."
+            &ldquo;To empower the community to speak out against #SGBV, to give voice to the voiceless and to curb future crime.&ldquo;
           </p>
           <p className="italic">
-            "To provide a platform for survivors to share their stories, to seek justice and to heal."
+            &ldquo;To provide a platform for survivors to share their stories, to seek justice and to heal.&ldquo;
           </p>
           <p className="italic">
-            "To educate the community on the dangers of #SGBV, to provide support for survivors and to advocate for the rights of every individual."
+            &ldquo;To educate the community on the dangers of #SGBV, to provide support for survivors and to advocate for the rights of every individual.&ldquo;
           </p>
         </div>
       </div>

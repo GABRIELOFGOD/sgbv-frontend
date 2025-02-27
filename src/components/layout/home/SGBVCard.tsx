@@ -21,7 +21,7 @@ const SGBVCard = ({
         <div className="bg-[#2a66ec] rounded-md p-1 w-fit h-fit">
           <Image src={Logo} alt="Logo" width={20} height={20} />
         </div>
-        <p className="font-semibold text-lg italic">"{words}"</p>
+        <p className="font-semibold text-lg italic">&ldquo;{words}"</p>
         <div>
           <p className="font-semibold">{name}</p>
           <p className="text-gray-500">{kind}</p>
